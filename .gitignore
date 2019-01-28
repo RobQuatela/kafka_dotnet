@@ -1,0 +1,7 @@
+kafka_dotnet.consumer/.vscode
+kafka_dotnet.consumer/bin
+kafka_dotnet.consumer/obj
+
+kafka_dotnet.producer/.vscode
+kafka_dotnet.producer/bin
+kafka_dotnet.producer/obj
